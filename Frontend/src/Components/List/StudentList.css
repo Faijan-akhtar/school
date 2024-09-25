@@ -1,0 +1,35 @@
+.student-container{
+    max-width: 500px;
+    border: 1px solid black;
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 5%;
+}
+h1{
+    text-align: center;
+}
+.detail-input{
+    display:flex;
+    flex-direction: column;
+    width: 50%;
+    
+    margin: 0 auto;
+    
+}
+input{
+    margin-top: 10px;
+    
+}
+
+.details-btn{
+width: 120px;
+padding: 5px;
+background-color:skyblue;
+border-radius: 5px;
+
+margin: 0 auto;
+margin-top: 20px;
+}
+span{
+    color: red;
+}

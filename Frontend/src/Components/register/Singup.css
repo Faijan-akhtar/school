@@ -1,0 +1,54 @@
+
+
+
+
+.box{
+  
+    max-width:40% ;
+    border: 1px solid gray;
+    margin: 0 auto;
+    margin-top: 5%;
+    
+  }
+  h1{
+    text-align: center;
+  }
+  .input-style{
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    width:200px;
+    gap: 20px;
+    padding: 10px;
+    margin-bottom: 30px;
+    
+  }
+  input{
+    height: 20px;
+  }
+  .btn-button{
+    background-color:skyblue;
+    padding: 6px;
+    width: 70%;
+    color: white;
+    margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 5px;
+    
+    
+  }
+  @media(max-width:450px){
+    .box{
+      max-width: 70%;
+    }
+    .input-style{
+      width: 60%;
+      
+      
+    }
+    .input{
+      height: 20px;
+      border: 1px solid gray;
+      
+    }
+  }

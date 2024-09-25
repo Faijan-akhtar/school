@@ -1,0 +1,37 @@
+img{
+    height: 400px;
+    width: 100;
+ 
+
+}
+.logo h1{
+    color: green;
+    margin-top: 20px;
+    position: absolute;
+    right: 210px;
+}
+.logo{
+    
+    display: flex;
+    margin-left: 60px;
+    
+}
+
+.logo img{
+    height: 80px;
+    width: 80px;
+}
+.about{
+    text-align: center;
+ margin: 30px;
+}
+
+.about h3{
+    color:darkorange;
+    letter-spacing: 0.4px;
+}
+.about p{
+    color: gray;
+    line-height: 30px;
+    letter-spacing: 0.6px;
+}

@@ -1,0 +1,29 @@
+
+
+
+.nav{
+    max-width: 100%;
+    background-color:skyblue;
+    position:sticky;
+    top: 0px;
+    
+}
+.nav-ul li,a{
+    display: inline-block;
+    list-style-type:none ;
+    text-decoration: none;
+    margin: 0 20px;
+    color: #ffffff;
+}
+.nav-ul a{
+    color: white;
+}
+
+.nav-ul{
+   margin-left: 10%;
+   padding: 10px;
+  
+   
+}
+   
+
